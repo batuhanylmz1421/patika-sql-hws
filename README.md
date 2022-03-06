@@ -1,2 +1,3 @@
 # hafta-1-odevler
-Patika SQL Ödevleri
+Patika <br /> 
+SQL Ödevleri
